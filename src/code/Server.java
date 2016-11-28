@@ -12,8 +12,6 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import com.mysql.jdbc.ResultSet;
-import code.NlpirTest.CLibrary;
 import code.SentimentAnalysis;
 
 public class Server
